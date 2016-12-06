@@ -2,7 +2,7 @@
 
   $DBhost = "http://serwer1699424.home.pl";
   $DBuser = "21754815_zad1";
-  $DBpass = "adminZAD1.4";
+  $DBpass = "xxxxx";
   $DBname = "21754815_zad1";
   
   $DBcon = new MySQLi($DBhost,$DBuser,$DBpass,$DBname);
